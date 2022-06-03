@@ -1,4 +1,4 @@
 # rsschool-cv
 
-<code>[https://github.com/Zoia25/rsschool-cv/blob/gh-pages/cv.md]
+<code>[https://Zoia25.github.io/rsschool-cv/]
   </code>
